@@ -1,0 +1,7 @@
+opencv-python
+deepface
+vaderSentiment
+SpeechRecognition
+PyAudio
+spotipy
+python-dotenv

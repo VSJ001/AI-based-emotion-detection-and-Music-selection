@@ -1,0 +1,23 @@
+# Secrets - NEVER commit real credentials
+.env
+
+# Python build / cache
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project artifacts
+.cache
+offline_songs/
